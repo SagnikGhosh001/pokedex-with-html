@@ -139,6 +139,10 @@ body {
   overflow-y: auto;
 }
 
+.stats .name-power:last-child{
+  border-bottom: none;
+}
+
 .action:hover{
   color: white;
 }
